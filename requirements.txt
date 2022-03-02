@@ -3,11 +3,6 @@ distribute==0.6.24
 gmaps==0.9.0
 gmpy2==2.0.8
 gunicorn==17.5
-ipykernel @ file:///opt/concourse/worker/volumes/live/6f6caad4-5c02-4b4a-5243-1eece346c27b/volume/ipykernel_1633545433252/work/dist/ipykernel-6.4.1-py3-none-any.whl
-ipympl @ file:///home/conda/feedstock_root/build_artifacts/ipympl_1645174282670/work
-ipython @ file:///opt/concourse/worker/volumes/live/c0526798-0817-46b3-68c1-bb9ffefe344a/volume/ipython_1635944197798/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
 numpy==1.7.0
 matplotlib==1.1.0
 wsgiref==0.1.2
