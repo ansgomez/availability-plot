@@ -3,7 +3,7 @@
 > **Status:** experimental / superseded. This was a short-lived attempt (March 2022)
 > to deploy an interactive availability plot as a Voila notebook on Heroku. Heroku's
 > free tier no longer exists, and the Plotly Dash version in
-> [availability-graph](https://github.com/ansgomez/availability-graph) is the
+> [availability-graph](https://github.com/ansgomez/availability-graph) (live at <https://ansgomez.github.io/availability-graph/>) is the
 > maintained variant.
 
 `availability.ipynb` plots the availability of a two-state repairable system,
